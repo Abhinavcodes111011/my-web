@@ -1,0 +1,18 @@
+p{
+color:#29B6F6; 
+}
+h1{
+  background-color:blue;
+    height: 300px
+}
+body{
+  background-color:#37dbcb;
+  text-align:center;
+}
+iframe{
+    width:1000px;
+}
+html{
+    scroll-behavior: smooth;
+    border-width:2000px 
+}
